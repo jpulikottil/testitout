@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6iCmW2EE06b_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Inda, Size and location</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">This is a sample project. </langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Inda,_Size_and_location_ORG">
+    <organization identifier="Inda,_Size_and_location_ORG">
+      <title>Inda, Size and location</title>
+      <item identifier="Inda,_Size_and_location_SCO" isvisible="true" identifierref="__6iCmW2EE06b_course_id_RES">
+        <title>Inda, Size and location</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6iCmW2EE06b_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6WepOEuOzKM_DX3598_DY3598_CX2048_CY692.jpg" />
+      <file href="mobile/5diJUsldhGi_DX2432_DY2432_CX1824_CY912.jpg" />
+      <file href="story_content/5vwapmYC6Z9_44100_160_0.mp3" />
+      <file href="story_content/5wvRDHwPjnw_captions.js" />
+      <file href="mobile/6FT6xjqiPYd_DX2160_DY2160_CX1619_CY976.jpg" />
+      <file href="story_content/5riatPaFuW7_44100_160_0.mp3" />
+      <file href="story_content/5bPE80MpBv8_captions.js" />
+      <file href="mobile/5dDAm10dJkK_DX2160_DY2160_CX1620_CY1080.jpg" />
+      <file href="mobile/6C0lw0yray4_DX1120_DY1120_CX840_CY561.jpg" />
+      <file href="mobile/6XgQkuFpg9Y_DX1154_DY1154_CX865_CY617.jpg" />
+      <file href="mobile/5uWei5DRxvw_DX1328_DY1328_CX996_CY664.jpg" />
+      <file href="mobile/5p0nnMwFEPT_DX1254_DY1254_CX940_CY627.jpg" />
+      <file href="mobile/6UeIMK88Va7_DX1128_DY1128_CX846_CY564.jpg" />
+      <file href="mobile/5wfiMz2B13i_DX1216_DY1216_CX616_CY911.jpg" />
+      <file href="mobile/5ctEzA5Jtey_DX1824_DY1824_CX1368_CY912.jpg" />
+      <file href="mobile/6ek2pqvzQ9e_DX1824_DY1824_CX1368_CY912.jpg" />
+      <file href="mobile/6VhaFKwg0UJ_DX1216_DY1216_CX910_CY910.jpg" />
+      <file href="mobile/6IsLCS4x7wo_DX1782_DY1782_CX1336_CY757.jpg" />
+      <file href="mobile/5laLgs2aT3X_DX1622_DY1622_CX1216_CY912.jpg" />
+      <file href="story_content/6gDmTSy7hK4_44100_160_0.mp3" />
+      <file href="story_content/6YgseJitklU_captions.js" />
+      <file href="story_content/5xtGMgQhbs6_44100_160_0.mp3" />
+      <file href="story_content/5nxeikK0hZA_captions.js" />
+      <file href="mobile/6WccA9hEy1v_DX234_DY234_CX175_CY175.png" />
+      <file href="mobile/5loZUnXrt0I_DX2160_DY2160_CX1620_CY1215.jpg" />
+      <file href="mobile/61mv1UMIHWD5hNvFo2KIDv{Width=659.7959, Height=366}Light_DX1320_DY1320_CX660_CY366.jpg" />
+      <file href="mobile/5xHW3F887GA5eifMdL0mlu{Width=659.7959, Height=366}Light_DX1320_DY1320_CX660_CY366.jpg" />
+      <file href="mobile/6SSxdA0V8nu5errUFlWKUe{Width=659.7959, Height=366}Light_DX1320_DY1320_CX660_CY366.jpg" />
+      <file href="mobile/6okrxRDs2j1_DX1928_DY1928_CX1446_CY912.jpg" />
+      <file href="story_content/5zX5C7CNRma_44100_160_0.mp3" />
+      <file href="story_content/6NjLYOQhUaX_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape67Q1fNeTCA8.png" />
+      <file href="mobile/txt__default_6nyg41AD8EO.png" />
+      <file href="mobile/txt__default_5jhBHLHrHsu.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cPXDWOhjAn.js" />
+      <file href="html5/data/js/5jAcxj8Uodi.js" />
+      <file href="html5/data/js/5jLieKnF58O.js" />
+      <file href="html5/data/js/6hi0Qsv0zk3.js" />
+      <file href="html5/data/js/6L6XqQ7kYQw.js" />
+      <file href="html5/data/js/6NTFVHz1CpB.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
